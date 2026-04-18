@@ -1,0 +1,4 @@
+vault:
+  name: "My Obsidian Vault"
+  default_folder: "notes"
+  auto_link: true
